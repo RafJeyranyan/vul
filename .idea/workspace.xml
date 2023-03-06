@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6321679-028a-464d-a4f0-62cc205a5d08" name="Changes" comment="" />
+    <list default="true" id="b6321679-028a-464d-a4f0-62cc205a5d08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/core/style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/core/style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cubits/dummy/dummy_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cubits/dummy/dummy_cubit.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/cubits/dummy/dummy_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cubits/dummy/dummy_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/dummy/dummy_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/view/dummy/dummy_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/dummy/questions/questions.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/dummy/questions/questions_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/view/dummy/questions/result_page.dart" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,7 +52,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "io.flutter.reload.alreadyRun": "true",
-    "last_opened_file_path": "C:/Users/RAFO/AndroidStudioProjects/Option/vul",
+    "last_opened_file_path": "C:/Users/RAFO/AndroidStudioProjects/flutterFirebaseChat",
     "settings.editor.selected.configurable": "dart.settings",
     "show.migrate.to.gradle.popup": "false"
   }

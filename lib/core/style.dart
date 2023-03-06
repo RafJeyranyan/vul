@@ -8,7 +8,7 @@ abstract class AppColors{
   static const background = Color(0xCDECEFEB);
   static const content = Color(0x848AA7CE);
   static const greenBackGround = Color(0xF2DBE8DB);
-
+  static const customRed = Color(0xFFE34E4E);
 
 }
 
@@ -16,12 +16,11 @@ abstract class AppColors{
 abstract class AppTextStyle{
 
   static const defaultTextStyle = TextStyle(fontSize: 18.0,color: AppColors.primary,fontWeight: FontWeight.w600);
-  static const titleSmall = TextStyle(fontSize: 14.0,color: AppColors.primary,fontWeight: FontWeight.w700);
-  static const titleLarge = TextStyle(fontSize: 24.0,color: AppColors.primary,fontWeight: FontWeight.w600);
+  static const titleSmall = TextStyle(fontSize: 24.0,color: AppColors.primary,fontWeight: FontWeight.w700);
+  static const titleLarge = TextStyle(fontSize: 30.0,color: AppColors.primary,fontWeight: FontWeight.w600);
   static const contentSmall = TextStyle(fontSize: 12.0,color: AppColors.primary,fontWeight: FontWeight.w500);
   static const contentLarge = TextStyle(fontSize: 16.0,color: AppColors.primary,fontWeight: FontWeight.w500);
-  static const questionTitle = TextStyle(fontSize: 24.0,color: AppColors.primary,fontWeight: FontWeight.w500);
-  static const questionAnswers = TextStyle(fontSize: 24.0,color: AppColors.contrast,fontWeight: FontWeight.w500);
+  static const facts = TextStyle(fontSize: 22.0,color: AppColors.primary,fontWeight: FontWeight.w400);
 
 }
 

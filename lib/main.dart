@@ -10,8 +10,9 @@ import 'view/home/home_screen.dart';
 import 'view/no_connection/no_connection_screen.dart';
 
 void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp();
+  await WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp( );
+
 
   runApp(const MyApp());
 }
