@@ -1,4 +1,4 @@
-package my.bet.mybet.app
+package gets.bet.app.getsbet
 
 import io.flutter.embedding.android.FlutterActivity
 

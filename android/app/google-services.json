@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1087355236399",
-    "project_id": "mibap-ede49",
-    "storage_bucket": "mibap-ede49.appspot.com"
+    "project_number": "574187779357",
+    "project_id": "gbrd-43a18",
+    "storage_bucket": "gbrd-43a18.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1087355236399:android:6e4239e00fd308d85f16da",
+        "mobilesdk_app_id": "1:574187779357:android:0c6ee74d772f4784b0ddf4",
         "android_client_info": {
-          "package_name": "my.bet.mybet.app"
+          "package_name": "gets.bet.app.getsbet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1087355236399-qcvjj0g5gfam9p2tjpned9o7h92p3bi2.apps.googleusercontent.com",
+          "client_id": "574187779357-6eecmrggqt26hbnrspa3e7fou7ijria7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDPtTi_7qWxjy9Cn6_BlUxTRyDYxipIVF0"
+          "current_key": "AIzaSyCweSbPkXm1m0KL98ROubXoBZnX1PJbCjE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1087355236399-qcvjj0g5gfam9p2tjpned9o7h92p3bi2.apps.googleusercontent.com",
+              "client_id": "574187779357-6eecmrggqt26hbnrspa3e7fou7ijria7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
