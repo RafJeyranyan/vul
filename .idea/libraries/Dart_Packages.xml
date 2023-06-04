@@ -387,6 +387,20 @@
             </list>
           </value>
         </entry>
+        <entry key="freezed">
+          <value>
+            <list>
+              <option value="D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/freezed-2.3.2/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="freezed_annotation">
+          <value>
+            <list>
+              <option value="D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-2.2.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="frontend_server_client">
           <value>
             <list>
@@ -925,6 +939,8 @@
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-8.1.2/lib" />
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.11.0/lib" />
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_native_splash-2.2.16/lib" />
+      <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/freezed-2.3.2/lib" />
+      <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/freezed_annotation-2.2.0/lib" />
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/frontend_server_client-3.2.0/lib" />
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/glob-2.1.1/lib" />
       <root url="file://D:/Other/Flutter SDK/flutter/.pub-cache/hosted/pub.dartlang.org/graphs-2.2.0/lib" />
