@@ -57,8 +57,23 @@ class DisplayDummyScreen extends StatelessWidget {
               Center(
                   child: ElevatedButton(
                 onPressed: () {
-                  Navigator.of(context).push(MaterialPageRoute(
-                      builder: (context) => InterestingFactsScreen()));
+                  List a = [1, 2, 3, 4, 5];
+
+                  // print(1 & 0);
+                  // print(1 & 1);
+                  // print(0 & 0);
+                  // print(0 & 1);
+                  final int i = 1;
+                  switch (i) {
+                    case 1 when i > 0:
+                      print("when i > 0");
+                      break;
+                    case 1 when i > 0:
+                      print("when i < 0");
+                      break;
+                    default:
+                      print("default");
+                  }
                 },
                 style: ElevatedButton.styleFrom(
                     backgroundColor: AppColors.customRed),

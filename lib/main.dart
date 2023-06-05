@@ -10,8 +10,7 @@ import 'view/home/home_screen.dart';
 import 'view/no_connection/no_connection_screen.dart';
 
 void main() async {
-  await WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp( );
+
 
 
   runApp(const MyApp());
@@ -42,6 +41,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+
         debugShowCheckedModeBanner: false,
         navigatorKey: kNavigatorKey,
         builder: (context, child) {
